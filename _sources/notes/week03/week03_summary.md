@@ -1,29 +1,32 @@
 (page_topic3)=
 Week 3 Summary
 =======================
+## Week 3 - Physical Exercise, Nutrition and Stress & Stress and Mental Health
 
 ## List of things to do this week
 
-Below is a list of things you need to do this week, links to where you can do them, as well as roughly the order you should do it.
-Note that these are just SUGGESTIONS and you are by no means required to them this way. 
-I have put the labs at the end, but if your lab section is earlier in the week, you may want to shift things around to accommodate that.
+<label><input type="checkbox" id="week02_task1" class="box"> [**Writing out some coping strategies**](../week02/strategies.md)</input></label>
 
-<label><input type="checkbox" id="week03_task1" class="box"> [**Read/skim the assigned textbook chapter**](./readings.md)</input></label>
+<label><input type="checkbox" id="week02_task2" class="box"> [**Some weekly routine**](routine) </input></label>
 
-<label><input type="checkbox" id="week03_task2" class="box"> [**Watch the lecture videos**](./videos.md) </input></label>
+<label><input type="checkbox" id="week02_task3" class="box"> [**Gallery**](../week05/gallery.md) </input></label>
 
 
-<label><input type="checkbox" id="week03_task3" class="box"> [**Complete the MasteringPhysics homework**](./homework.md) </input></label>
 
-<label><input type="checkbox" id="week03_task4" class="box"> [**Attend yor tutorial section to get help**](https://canvas.ubc.ca/courses/63995/external_tools/5284) </input></label>
+(routine)=
+## Weekly routine
+Managing time and responsibilities can often feel stress -- What should I eat today? Should I go to library? These decisions between class, assignments and extra activities can easy to feel stressed. 
+Establishing a weekly routine has helped me reduce the number of decisions I need to make each day.
 
-
-```{tip}
-Remember that there are two Homework assignments due this week: HW02 (from week2) and HW03 (from week03).
+- 🆕Plan meals.
+      - Planning meals and can helps me make healthier choices, save time grocery shopping, and get meals on the table faster and with less stress. This simple step can make it possible to eat healthily, save money, and reduce food waste.
+```{admonition} See also
+:class: seealso
+[My first plan meal](../week03/food.md)
 ```
+  
+- Reading every day is a great way to improve your mood and enhance your mind. Whether it’s a nonfiction memoir or a graphic novel, reading improves your brain function.
+    - [Go to my review page](../week05/videos.md)
 
-<label><input type="checkbox" id="week03_task5" class="box"> [**Write the test (60 mins)**](./test.md) </input></label>
+- To Be Determmined...
 
-<label><input type="checkbox" id="week03_task6" class="box"> [**Complete the lab**](./lab.md) </input></label>
-
-<label><input type="checkbox" id="week03_task7" class="box"> [**Complete your Learning Log assignment**](./learninglogs.md) </input></label>

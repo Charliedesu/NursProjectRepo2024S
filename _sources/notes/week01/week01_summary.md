@@ -2,41 +2,28 @@
 Week 1
 =======================
 
-This week we will be doing course introductions, I will be showing you how to navigate the course website, and how the course is set up. 
-In terms of content, we will use this week to do a math diagnostic, get everyone access to the textbook and homework system, and understand the syllabus.
 
-## Course Introductions!
+## Domain of Self-Care
+Below is a list of things I could try from this week
 
-Hello, my name is Firas Moosvi and I am your instructor for Physics 111! 
+<label><input type="checkbox" id="week01_task1" class="box"> [**Physical Self-Care**]</input></label>
 
-## Navigating the course website
+<label><input type="checkbox" id="week01_task2" class="box"> [**Professional Self-Care**] </input></label>
 
-Live demo...
 
-## Navigating Mastering Physics
+<label><input type="checkbox" id="week01_task3" class="box"> [**Relational Self-Care**] </input></label>
 
-```{tip}
-I have added an assignment called "Introduction to Mastering Physics" to help familiarize you with the interface. It is due, but there are no marks associated with it.
-```
 
-## Online polls using Sli.do
+<label><input type="checkbox" id="week02_task4" class="box"> [**Emotional Self-Care**] </input></label>
 
-Event Code: Physics111
+<label><input type="checkbox" id="week02_task5" class="box"> [**Psychological Self-Care**] </input></label>
 
-<iframe src="https://app.sli.do/event/lk89xpvr" width="500px" height="700px"></iframe>
+<label><input type="checkbox" id="week02_task6" class="box"> [**Spiritual Self-Care**] </input></label>
 
-## Math Diagnostic
 
-```{tip}
-I have added an assignment called "Introduction to Mastering Physics" to help familiarize you with the interface. It is due, but there are no marks associated with it.
-```
-
-## Example videos you should expect to see starting next week
-
+## Example videos
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/yBMeYW8Nm_s" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/inpok4MKVLM?si=68Gaw9pVUtDzr1Ql" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/OoO5d5P0Jn4" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+
