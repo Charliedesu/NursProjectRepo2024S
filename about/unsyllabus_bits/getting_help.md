@@ -1,19 +1,24 @@
-The best way to get personalized help in this course is to attend the "Student Hours" we have scheduled for this course.
-They are all done on Zoom and this is time that the instructor and TAs have set aside to help YOU personally, 1 on 1!
-I understand it might feel intimidating to come to Student Hours, but we don't bite!
-We would love to hear about you, what your interests are, and if you have any career advice. 
-If nobody comes to the Student Hours, we end up sitting in a Zoom room all by ourselves, all alone, and sad.
 
-A few other notes:
-
-- We will be using {{ FORUM_LINK }} for Announcements in this course.
-- For **all** course-related questions you can reach out to the teaching team including instructors and TAs via {{ FORUM_LINK }}.
-- You are encouraged to post questions publicly whenever possible so others can benefit. For private and personal issues, you can send private messages on {{ FORUM_LINK }}.
-- Any student may visit the student hour for any member of the teaching team (TA or instructor)! In other words, you can go to the student hour of ANY TA, not just the one whose lab/tutorial you are registered in.
-
-### Why should I take {{ COURSE_CODE }}?
-
-```{include} syllabus_bits/course_teaser.md
+```{figure} ../images/gh-self-care.jpg
+---
+scale: 30%
+name: self-care-fig.
+---
 ```
 
-<div class="page_break"> </div>
+As a student, I can sometimes feel overwhelming to balance academic pressures, social life, and personal challenges. I remember the first time I sought help for my mental health. At first, I was hesitant to reach out for help because I didn't want to be seen as “weak” or incapable of handling things. I was nervous about sharing my feelings and experiences, but the counselor was incredibly understanding and supportive. The initial step of seeking help can make a difference in your life. It's okay to ask for support and that mental health is just as important as physical health. If you're feeling stressed, anxious, or just need someone to talk to, I encourage you to reach out and use the mental health services available.
+
+
+
+:::{admonition} Where to ask for help:
+:class: tip
+
+- [Self-help resources, peer support services, mental health and more 💚](https://students.ubc.ca/health)
+- [On Campus: In-person or Virtual Counselling Services ⚖️](https://students.ubc.ca/health/counselling-services)
+- Off Campus sources 🩺:
+   - [Vancouver Coastal Health - Youth Health and Mental Health Support Services](http://www.vch.ca/Locations-Services/result?res_id=636)
+   - [Virtual and In-Person Youth Health and Mental Health Services in Vancouver and BC](https://foundrybc.ca/)
+
+
+:::
+
